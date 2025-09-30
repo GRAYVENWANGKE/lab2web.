@@ -1,9 +1,9 @@
-# Pratikum 2 - CSS Dasar
-### NAMA : Raihan Ardiansyah
-### NIM : 312410396
+#  Pratikum 2 - CSS Dasar
+### NAMA : Grayven c.w
+### NIM : 312410435
 ### KELAS : TI.24.A3
 
-## 📍LANGKAH - LANGKAH PENGERJAAN
+## LANGKAH - LANGKAH PENGERJAAN
 
 ### 1. MEMBUAT FILE DASAR HTML.
 
